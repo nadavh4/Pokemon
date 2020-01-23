@@ -4,6 +4,10 @@
 Pokemon Types
 
 """
+
+"""
+Yael Salzer added comment on 2020_01_23
+"""
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
